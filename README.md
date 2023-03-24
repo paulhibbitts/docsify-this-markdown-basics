@@ -21,6 +21,8 @@ _your italic text here_
 
 **your bold text here**  
 
+> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+
 * your unordered list item here  
 
   1. your numbered (and indented) list item here   
