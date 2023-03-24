@@ -13,11 +13,23 @@ Markdown is a syntax to format the display of content stored as plain text - sim
 
 ## Markdown Examples
 
+## Headers
+
+<h1> # Your h1 Text Here </h1>
+<h2> # Your h2 Text Here </h2>
+
 ```
-# Your H1 Text Here  
-## Your H2 Text Here  
+# Your h1 Text Here  
+## Your h2 Text Here  
+```
+
+## Emphasis
 
 _your italic text here_  
+
+```
+_your italic text here_  
+```
 
 **your bold text here**  
 
