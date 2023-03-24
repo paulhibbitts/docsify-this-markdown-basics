@@ -16,10 +16,14 @@ Markdown is a syntax to format the display of content stored as plain text - sim
 ## Headers
 
 <h1> # Your h1 Text Here </h1>
-<h2> # Your h2 Text Here </h2>
 
 ```
 # Your h1 Text Here  
+```
+
+<h2> # Your h2 Text Here </h2>
+
+```
 ## Your h2 Text Here  
 ```
 
