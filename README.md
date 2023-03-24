@@ -6,13 +6,9 @@
 ###### h6 Heading
 
 
-## Horizontal Rules
-
-___
+## Horizontal Rule
 
 ---
-
-***
 
 
 ## Emphasis
@@ -31,22 +27,16 @@ _This is italic text_
 ## Blockquotes
 
 
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
+> This is an example Blockquote.
 
 
 ## Lists
 
 Unordered
 
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
+- Create a list by starting a line with `-`, or `*`
+- Sub-lists are made by indenting 2 spaces:
+  - So this is a sub-list item!
 
 Ordered
 
@@ -115,7 +105,7 @@ Right aligned columns
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+Autoconverted link https://github.com/nodeca/pica
 
 
 ## Images
