@@ -125,15 +125,3 @@ Autoconverted link https://github.com/nodeca/pica
 ### Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
-
-
-### Footnotes
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-
-[^first]: Footnote text. 
-
-[^second]: Footnotes **can also have markup**.
