@@ -13,54 +13,7 @@ Markdown is a syntax to format the display of content stored as plain text - sim
 
 ## Markdown Examples
 
-## Headers
-
-<h1> # Your h1 Text Here </h1>
-
-```
-# Your h1 Text Here  
-```
-
-<h2> # Your h2 Text Here </h2>
-
-```
-## Your h2 Text Here  
-```
-
-## Emphasis
-
-_your italic text here_  
-
-```
-_your italic text here_  
-```
-
-**your bold text here**  
-
-> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
-
-* your unordered list item here  
-
-  1. your numbered (and indented) list item here   
-
-[link title](www.google.com)  
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-![image alt text](https://octodex.github.com/images/minion.png)
-
-Footnote 1 link[^first].
-
-[^first]: Footnote **can have markup**
-
-```
-Tip: To ensure a new paragraph after text in markdown, put two spaces after the end of the line
-
-## Headings
+### Headings
 
 Headings from `h1` through `h6` are constructed with a `#` for each level:
 
@@ -72,12 +25,12 @@ Headings from `h1` through `h6` are constructed with a `#` for each level:
 <h6> # h6 Heading </h6> 
 
 
-## Horizontal Rule
+### Horizontal Rule
 
 ---
 
 
-## Emphasis
+### Emphasis
 
 **This is bold text**
 
@@ -90,13 +43,13 @@ _This is italic text_
 ~~Strikethrough~~
 
 
-## Blockquotes
+### Blockquotes
 
 
 > This is an example Blockquote.
 
 
-## Lists
+### Lists
 
 Unordered
 
@@ -120,7 +73,7 @@ Start numbering with offset:
 1. bar
 
 
-## Code
+### Code
 
 Inline `code`
 
@@ -148,7 +101,7 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
-## Tables
+### Tables
 
 | Option | Description |
 | ------ | ----------- |
@@ -165,7 +118,7 @@ Right aligned columns
 | ext    | extension to be used for dest files. |
 
 
-## Links
+### Links
 
 [link text](http://dev.nodeca.com)
 
@@ -174,12 +127,12 @@ Right aligned columns
 Autoconverted link https://github.com/nodeca/pica
 
 
-## Images
+### Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
 
 
-## Footnotes
+### Footnotes
 
 Footnote 1 link[^first].
 
