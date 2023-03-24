@@ -1,5 +1,7 @@
 ## Headings
 
+Headings from `h1` through `h6` are constructed with a `#` for each level:
+
 <h1> # h1 Heading </h1>
 <h2> # h2 Heading </h2>
 <h3> # h3 Heading </h3>
