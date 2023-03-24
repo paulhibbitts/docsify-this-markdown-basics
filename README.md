@@ -1,7 +1,9 @@
 # Markdown
 
+
 ## What is Markdown? 
 Markdown is a syntax to format the display of content stored as plain text - similar but simpler than HTML formatting
+
 
 ## Why Markdown? 
 
@@ -12,6 +14,7 @@ Markdown is a syntax to format the display of content stored as plain text - sim
 * Can also contain HTML snippets
 
 ## Markdown Examples
+
 
 ### Headings
 
