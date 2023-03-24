@@ -136,4 +136,4 @@ Footnote 2 link[^second].
 
 [^first]: Footnote text. 
 
-[^second]: Footnotes can also have **can have markup**.
+[^second]: Footnotes **can also have markup**.
