@@ -29,6 +29,10 @@ _your italic text here_
 
 ![image alt text](https://octodex.github.com/images/minion.png)
 
+Footnote 1 link[^first].
+
+[^first]: Footnote **can have markup**
+
 ```
 Tip: To ensure a new paragraph after text in markdown, put two spaces after the end of the line
 
