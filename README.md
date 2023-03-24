@@ -113,7 +113,7 @@ Autoconverted link https://github.com/nodeca/pica
 ![Minion](https://octodex.github.com/images/minion.png)
 
 
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+### Footnotes
 
 Footnote 1 link[^first].
 
